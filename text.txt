@@ -1,0 +1,1 @@
+"Para activar el entorno virtual" venv\Scripts\activate
